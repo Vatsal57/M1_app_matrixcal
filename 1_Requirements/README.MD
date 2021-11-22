@@ -25,9 +25,14 @@ Researchers and mathematicians
 ## What 
 Calculate the sum, differemce, product of two matrices and also the determinnt, transpose and inverse of a single matrix.
 ## When 
+Students facing a difficulty in solving a matrix related problem, can use this program to conform their outputs.
 
+Researchers can use it for getting a quick calculation output.
 ## Where 
+Students, employees and researchers all over the world.
 ## How 
+This program can be executed on Linux and Windows operating system.
 # Detail Requirements
 ## High Level Requirements:
+
 ## Low level Requirements:
