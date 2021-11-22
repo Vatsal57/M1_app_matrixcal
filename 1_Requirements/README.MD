@@ -11,3 +11,23 @@ The cost of implementing a matrix computations project is little if any. However
 This program has dynamic memory allocation involved for allocating memory for the matrices, i.e 2 dimensional arrays. A structure is implemented for storing the input matrices. The user can select the opeation to be performed by pressing a number on the keyboard. The significance of each number, i.e the operation which it performs will be displayed on the screen during the execution of the program.
 ## Defining Our System
 The system on the whole is viewed as a blackbox which accepts input of a single number. Then the mapping of the number is done so as to perform the appropriate function. Then the user will be prompted to enter the matrix size. After that the user is prompted to enter the matrix elements. The input is stored in 2D arrays which are dynamically allocated and passed to the respective functions. Then the output is printed on the screen. This whole process is in a loop until the user presses a key which will exit the program.
+## SWOT Analysis
+![SWOT](https://user-images.githubusercontent.com/94515256/142893330-b1c02985-496c-43c7-b376-bd9a19b81848.PNG)
+# 4W's and 1'H
+## Who
+Students who want to solve matrix related problems for their academic work
+
+Datascience workers working on machine learning and deep learning applications which majorly involve matrices.
+
+Software engineers
+
+Researchers and mathematicians
+## What 
+Calculate the sum, differemce, product of two matrices and also the determinnt, transpose and inverse of a single matrix.
+## When 
+
+## Where 
+## How 
+# Detail Requirements
+## High Level Requirements:
+## Low level Requirements:
