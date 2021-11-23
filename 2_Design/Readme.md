@@ -5,6 +5,7 @@
 
 ![HighLevelBehaviouralDiagram](https://user-images.githubusercontent.com/94515256/143043634-875f1d40-222d-4d75-ba72-e45ef0232732.png)
 ## Low Level Design
+## UML Class Diagram
 ![FeaturesLevelStructuralDiagram](https://user-images.githubusercontent.com/94515256/143044692-fc2dd880-50f9-4493-a8b2-bdc54b1a102b.png)
 
 
