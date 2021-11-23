@@ -34,5 +34,14 @@ Students, employees and researchers all over the world.
 This program can be executed on Linux and Windows operating system.
 # Detail Requirements
 ## High Level Requirements:
-
+|ID|Description|Status|
+|--|-----------|------|
+|01|User shall be able to specify the size of the matrix|Implemented|
+|02|User shall be able to add the matrices|Implemented|
+|03|User shall be able to multiply the matrices|Implemented|
 ## Low level Requirements:
+|ID|Description|Status|
+|--|-----------|------|
+|01|User must specify the size of the matrix|Implemented|
+|02|The size specified is the dimensions of the square matrix|Implemented|
+|03|Subtraction of two matrices is implemented in the same manner as addition|Implemented|
