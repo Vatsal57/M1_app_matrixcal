@@ -16,6 +16,12 @@ src/transpose.c\
 
 # All test source files
 TEST_SRC = src/matrix_operations.c\
+src/addition.c\
+src/determinant.c\
+src/inverse.c\
+src/product.c\
+src/subtract.c\
+src/transpose.c\
 test/test_matrix_operations.c\
 unity/unity.c\
 
