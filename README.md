@@ -1,6 +1,6 @@
-|Build|Code Quality|Git Inspector|
-|-----|------------|-------------|
-||![Code Inspector (Codiga)](https://api.codiga.io/project/30072/score/svg) ![](https://api.codiga.io/project/30072/status/svg) [![Code Quality - Static Code - Cppcheck](https://github.com/Vatsal57/M1_app_matrixcal/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Vatsal57/M1_app_matrixcal/actions/workflows/cppcheck.yml)|[![Contribution Check - Git Inspector](https://github.com/Vatsal57/M1_app_matrixcal/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Vatsal57/M1_app_matrixcal/actions/workflows/gitinspector.yml)|
+![Code Inspector (Codiga)](https://api.codiga.io/project/30072/score/svg) ![](https://api.codiga.io/project/30072/status/svg)
+[![Code Quality - Static Code - Cppcheck](https://github.com/Vatsal57/M1_app_matrixcal/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Vatsal57/M1_app_matrixcal/actions/workflows/cppcheck.yml)
+[![Contribution Check - Git Inspector](https://github.com/Vatsal57/M1_app_matrixcal/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Vatsal57/M1_app_matrixcal/actions/workflows/gitinspector.yml)
 # M1_app_Matrix_Operations
 This project helps in performing different operations on a matrix.
 The operations include:
