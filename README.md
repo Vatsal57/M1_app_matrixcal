@@ -1,3 +1,6 @@
+|Build|Code Quality|Unity|
+|-----|------------|-----|
+||![Code Inspector (Codiga)](https://api.codiga.io/project/30072/score/svg) ![](https://api.codiga.io/project/30072/status/svg)|
 # M1_app_Matrix_Operations
 This project helps in performing different operations on a matrix.
 The operations include:
